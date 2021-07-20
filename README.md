@@ -40,5 +40,5 @@ left join dbo.meal_cost
 on meal_cost.meal = hotels.meal
 ```
 
-## Screen Shot 
+## Screenshot
 ![power-bi](powerBI.png)
